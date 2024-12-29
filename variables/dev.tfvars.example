@@ -1,0 +1,3 @@
+APP_ENV = "develop"
+AWS_REGION  = "ap-southeast-1"
+AWS_BUCKET = "s3_example"
