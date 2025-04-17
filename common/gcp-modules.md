@@ -1,0 +1,10 @@
+1.terraform-google-vpc
+2.terraform-google-compute
+3.terraform-google-iam
+4.terraform-google-storage
+5.terraform-google-firewall
+6.terraform-google-sql
+7.terraform-google-container-cluster
+8.terraform-google-monitoring
+9.terraform-google-dns
+10.terraform-google-http-load-balancer

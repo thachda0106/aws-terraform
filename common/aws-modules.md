@@ -1,0 +1,11 @@
+1. terraform-aws-vpc
+2. terraform-aws-ec2-instance
+3. terraform-aws-iam-role
+4. terraform-aws-s3-bucket
+5. terraform-aws-security-group
+6. terraform-aws-rds
+7. terraform-aws-eks
+8. terraform-aws-cloudwatch
+9. terraform-aws-route53
+10. terraform-aws-alb
+11. terraform-aws-ecs
